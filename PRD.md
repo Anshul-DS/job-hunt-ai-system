@@ -123,4 +123,4 @@ These are about whether the *build* succeeded — not a claim about the scorer's
 
 ## 11. Next artifact
 
-Design-decision doc (not this doc): why AI here at all, where it's deterministic and why, how output quality gets evaluated, known limitations, what changes at scale. Not started yet.
+Design-decision doc (not this doc): why AI here at all, where it's deterministic and why, how output quality gets evaluated, known limitations, what changes at scale. 
