@@ -43,3 +43,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Personal prep notes — conversation briefs, positioning, intel to extract.
+# Not repo artifacts. This directory stays local.
+/notes/
